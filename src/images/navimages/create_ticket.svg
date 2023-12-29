@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <g data-name="Group 16201">
+        <g data-name="Group 16329">
+            <g data-name="Group 16116">
+                <g data-name="Group 11441" transform="translate(.364 .364)">
+                    <circle data-name="Ellipse 462" cx="24" cy="24" r="24" transform="translate(-.364 -.364)" style="fill:#fff"/>
+                </g>
+            </g>
+            <path data-name="5652448_event_show_ticket_tickets_icon" d="M25.285 12.057c.483 0 1.715-.073 1.715-.557V8.875A.874.874 0 0 0 26.126 8H3.874A.874.874 0 0 0 3 8.875V11.5a.874.874 0 0 0 .874.875 2.625 2.625 0 0 1 0 5.25A.874.874 0 0 0 3 18.5v2.625a.874.874 0 0 0 .874.875h22.252a.874.874 0 0 0 .874-.875V18.5a.874.874 0 0 0-.874-.875A2.623 2.623 0 0 1 23.5 15c0-1.45.333-2.943 1.781-2.943z" transform="translate(9 9)" style="fill:#6964e2"/>
+        </g>
+        <path data-name="Path 19894" d="M0 1.68V14" transform="translate(29.902 16)" style="fill:none;stroke:#fdfdfd;stroke-dasharray:1 1"/>
+    </g>
+</svg>

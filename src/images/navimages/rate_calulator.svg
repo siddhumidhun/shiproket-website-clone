@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-3{fill:#ccc1ff}
+        </style>
+    </defs>
+    <g id="Group_16200" data-name="Group 16200" transform="translate(-21.636 -1306.636)">
+        <g id="Group_16330" data-name="Group 16330">
+            <g id="Group_16116" data-name="Group 16116" transform="translate(22 1307)">
+                <g id="Group_11441" data-name="Group 11441">
+                    <circle id="Ellipse_462" data-name="Ellipse 462" class="cls-1" cx="24" cy="24" r="24" transform="translate(-.364 -.364)"/>
+                </g>
+            </g>
+            <g id="_5779807_bitcoin_calc_calculator_icon" data-name="5779807_bitcoin_calc_calculator_icon" transform="translate(26.636 1310.636)">
+                <g id="Group_16187" data-name="Group 16187" transform="translate(10 8)">
+                    <path id="Path_19886" data-name="Path 19886" d="M26.909 32H11.091A1.061 1.061 0 0 1 10 30.979V9.021A1.061 1.061 0 0 1 11.091 8h15.818A1.061 1.061 0 0 1 28 9.021v21.958A1.061 1.061 0 0 1 26.909 32z" transform="translate(-10 -8)" style="fill:#6964e2"/>
+                    <path id="Rectangle_5638" data-name="Rectangle 5638" class="cls-1" transform="translate(2.32 2.32)" d="M0 0h13.446v4.639H0z"/>
+                    <path id="Path_19887" data-name="Path 19887" class="cls-3" d="M19.405 32.895h-3.916a.462.462 0 0 1-.489-.49v-3.916a.462.462 0 0 1 .489-.489h3.916a.462.462 0 0 1 .489.489v3.916a.462.462 0 0 1-.489.49z" transform="translate(-12.151 -17.673)"/>
+                    <path id="Path_19888" data-name="Path 19888" class="cls-3" d="M32.405 32.895h-3.916a.462.462 0 0 1-.489-.49v-3.916a.462.462 0 0 1 .489-.489h3.916a.462.462 0 0 1 .489.489v3.916a.462.462 0 0 1-.489.49z" transform="translate(-17.743 -17.673)"/>
+                    <path id="Path_19889" data-name="Path 19889" class="cls-3" d="M19.405 45.895h-3.916a.462.462 0 0 1-.489-.49v-3.916a.462.462 0 0 1 .489-.489h3.916a.462.462 0 0 1 .489.489v3.916a.462.462 0 0 1-.489.49z" transform="translate(-12.151 -23.853)"/>
+                    <path id="Path_19890" data-name="Path 19890" class="cls-3" d="M32.405 45.895h-3.916a.462.462 0 0 1-.489-.49v-3.916a.462.462 0 0 1 .489-.489h3.916a.462.462 0 0 1 .489.489v3.916a.462.462 0 0 1-.489.49z" transform="translate(-17.743 -23.853)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

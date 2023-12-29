@@ -1,20 +1,17 @@
 .App {
   text-align: center;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
 .App-header {
-  background-color: #282c34;
+  background-color: #ededed;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -23,11 +20,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
 .App-link {
   color: #61dafb;
 }
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +31,230 @@
     transform: rotate(360deg);
   }
 }
+.app {
+  display: flex;
+}
+.sidebar {
+  position: fixed;
+  transition: width .4s;
+  left: 0;
+  top: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #06064d;
+  color: white;
+  height: 100vh;
+  font-size: 12px;
+  white-space: nowrap;
+  width: 18em;
+}
+.app {
+  display: flex;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+.sidebar ul {
+  list-style: none;
+  padding: 0px;
+}
+.sidebar li {
+  display: flex;
+  align-items: center;
+  padding-left: 4px;
+  padding: 19px;
+  color: white !important; 
+  text-decoration: none !important;
+}
+.sidebar li:hover {
+  background-color:#ffffff !important;
+  text-decoration: none !important;
+  color: purple !important;
+  border-radius: 4px;
+}
+.submenu {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  cursor: pointer;
+}
+.sidebar .submenu.open {
+  font-weight: bold;
+  white-space: nowrap;
+}
+.sidebar .icon {
+  width: 24px; 
+  height: 22px; 
+  margin-right: 10px;
+}
+.sidelogo{
+  display:flex;
+  flex-direction: row;
+  padding-right: 20px;
+  align-items: center;
+  padding-top: 10px;
+}
+.sidename{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  padding-left: 4px;
+}
+.main-page{
+  width: 100%;
+  background-color: #656565;
+}
+.topbar {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  height: 60px;
+  padding-right: 10em;
+  position: fixed;
+  top: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+  left: 10em;
+  width: calc(100% - 11em);
+  z-index: 100;
+}
+.nav-button{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-direction: row;
+  color: #7700ff;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+}
+.vl {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-left: 1px solid rgb(82, 83, 82);
+  height: 2px;
+}
+.refresh-size{
+  height: 15px;
+  width: 15px;
+}
+.wallet-section{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  cursor: pointer;
+}
+.wallet-content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 5px;
+  cursor: pointer;
+}
+.wallet-icon-alignment{
+  margin-right: 8px;
+}
+.recharge-button{
+  border: none;
+  cursor: pointer;
+  background-color: #f5f1fe;
+  color: #181890;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+}
+.quick-action-card{
+  display: flex;
+  position:absolute;
+  top: 3rem;
+  right: 3rem;
+  height: 10rem;
+  background-color: #9696e6;
+  border-radius: 10px;
+}
+.quick-action-contents{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 15px;
+  margin: 15px;
+  background-color: bisque;
+  cursor: pointer;
+  z-index: 100000;
+}
+.quick-action-contents:hover{
+  border: 1px solid red;
+}
+.quick-action-content-desc{
+  display: flex;
+  position:absolute;
+  top: 15rem;
+  right: 3rem;
+  height: 10rem;
+  background-color: #9696e6;
+  border-radius: 10px;
+}
+.menu-item {
+  list-style: none;
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 2px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.menu-item-content:hover {
+  background-color: #f0f0f0;
+}
+.menu-item-content img {
+  margin-right: 8px;
+}
+.menu-item-content span {
+  display: none; 
+  margin-left: 8px;
+}
+.menu-item:hover .menu-item-content span {
+  display: inline;
+}
+.submenu {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  z-index: 1;
+}
+.menu-item:hover .submenu {
+  display: block;
+}
+.sidebar a{
+  text-decoration: none;
+  color:#ffffff ;
+}
+.sidebar a:hover{
+  color: purple !important;
+}
+.sidebar li:hover a {
+  color: purple !important;
+}
+.sidebar .submenu {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  margin-top: -18px; 
+  z-index: 1;
+}
+.sidebar li:hover > a + .submenu {
+  display: block;
+}
+

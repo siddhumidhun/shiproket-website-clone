@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-3{fill:#6964e2}.cls-4{fill:none;stroke-linecap:round;stroke-width:2px;stroke:#bfbcff}
+        </style>
+    </defs>
+    <g id="Group_16199" data-name="Group 16199" transform="translate(-21.636 -1306.636)">
+        <g id="Group_16116" data-name="Group 16116" transform="translate(22 1307)">
+            <g id="Group_11441" data-name="Group 11441">
+                <circle id="Ellipse_462" data-name="Ellipse 462" class="cls-1" cx="24" cy="24" r="24" transform="translate(-.364 -.364)"/>
+            </g>
+        </g>
+        <g id="Group_16123" data-name="Group 16123" transform="translate(28.073 1319.834)">
+            <g id="_3144066_delivery_fast_shipping_icon" data-name="3144066_delivery_fast_shipping_icon">
+                <path id="Path_19791" data-name="Path 19791" d="M31.722 35.284h-19.5A1.223 1.223 0 0 1 11 34.065V18.219A1.223 1.223 0 0 1 12.219 17H30.5a1.223 1.223 0 0 1 1.219 1.219z" transform="translate(-6.124 -17)" style="fill:#bfbcff"/>
+                <path id="Path_19792" data-name="Path 19792" class="cls-3" d="M45 29h2.438a6.113 6.113 0 0 1 6.095 6.095v4.875H45z" transform="translate(-19.402 -21.686)"/>
+                <path id="Path_19793" data-name="Path 19793" class="cls-1" d="M48 36.876V32h.609a4.24 4.24 0 0 1 4.266 4.266v.609z" transform="translate(-20.574 -22.858)"/>
+                <path id="Path_19794" data-name="Path 19794" class="cls-3" d="M39.778 48.828H9.914A.937.937 0 0 1 9 47.914.937.937 0 0 1 9.914 47h29.864a.937.937 0 0 1 .914.914.937.937 0 0 1-.914.914z" transform="translate(-5.343 -28.716)"/>
+                <circle id="Ellipse_559" data-name="Ellipse 559" class="cls-3" cx="3.156" cy="3.156" r="3.156" transform="translate(8.115 16.23)"/>
+                <circle id="Ellipse_560" data-name="Ellipse 560" class="cls-1" cx="1.352" cy="1.352" r="1.352" transform="translate(9.918 18.033)"/>
+                <circle id="Ellipse_561" data-name="Ellipse 561" class="cls-3" cx="3.156" cy="3.156" r="3.156" transform="translate(26.148 16.23)"/>
+                <circle id="Ellipse_562" data-name="Ellipse 562" class="cls-1" cx="1.352" cy="1.352" r="1.352" transform="translate(27.951 18.033)"/>
+                <path id="Rectangle_5598" data-name="Rectangle 5598" class="cls-3" transform="translate(4.508 14.427)" d="M0 0h2.705v1.803H0z"/>
+                <path id="Path_19893" data-name="Path 19893" class="cls-4" d="M5.346 0H0" transform="translate(2.717 3.798)"/>
+                <path id="Path_19795" data-name="Path 19795" class="cls-4" d="M4.489.541H-1" transform="translate(3.121 7.24)"/>
+                <path id="Line_255" data-name="Line 255" transform="translate(3.962 5.79)" style="stroke:#fff;stroke-linejoin:round;stroke-miterlimit:10;fill:none;stroke-linecap:round;stroke-width:2px" d="M4.266 0H0"/>
+            </g>
+        </g>
+    </g>
+</svg>
